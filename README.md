@@ -1,4 +1,7 @@
-# jacketofinternet
+#jacketofinternet - https://twitter.com/JacketOinternet
+
+<img src="https://github.com/larsgimse/jacketofinternet/blob/master/jacketofinternet_1_bb.png">
+
 
 https://makecode.microbit.org/_ejaY0TCEiWzV
 
