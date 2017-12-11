@@ -3,7 +3,8 @@
 <img src="https://github.com/larsgimse/jacketofinternet/blob/master/jacketofinternet_1_bb.png">
 
 NeoPixel stipe on right: https://learn.adafruit.com/led-ampli-tie/overview
-<img src="https://s3.amazonaws.com/learn-production/guides/images/000/000/216/medium800/Collin-pixel-tie.jpg?1448301180" width="150">
+
+<img src="https://s3.amazonaws.com/learn-production/guides/images/000/000/216/medium800/Collin-pixel-tie.jpg?1448301180" width="200">
 
 
 https://makecode.microbit.org/_ejaY0TCEiWzV
