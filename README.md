@@ -1,7 +1,9 @@
 #jacketofinternet - https://twitter.com/JacketOinternet
 
-<img src="https://github.com/larsgimse/jacketofinternet/blob/master/neopixel_jacket.png">
+<a href="https://www.instagram.com/p/BbxGVQHg81M"><img src="https://github.com/larsgimse/jacketofinternet/blob/master/neopixel_jacket.png">
+</a>
 https://www.instagram.com/p/BbxGVQHg81M
+
 
 <img src="https://github.com/larsgimse/jacketofinternet/blob/master/jacketofinternet_1_bb.png" width="350">
 
