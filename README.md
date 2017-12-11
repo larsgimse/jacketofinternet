@@ -1,6 +1,6 @@
 #jacketofinternet - https://twitter.com/JacketOinternet
 
-<img src="https://github.com/larsgimse/jacketofinternet/blob/master/jacketofinternet_1_bb.png">
+<img src="https://github.com/larsgimse/jacketofinternet/blob/master/jacketofinternet_1_bb.png" width="300">
 
 NeoPixel stipe on right: https://learn.adafruit.com/led-ampli-tie/overview
 
