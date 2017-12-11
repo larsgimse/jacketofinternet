@@ -1,4 +1,4 @@
-#jacketofinternet - https://twitter.com/JacketOinternet
+#jacketofinternet - on Twitter: https://twitter.com/JacketOinternet
 
 <a href="https://www.instagram.com/p/BbxGVQHg81M"><img src="https://github.com/larsgimse/jacketofinternet/blob/master/neopixel_jacket.png">
 </a>
