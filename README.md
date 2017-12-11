@@ -2,6 +2,8 @@
 
 <img src="https://github.com/larsgimse/jacketofinternet/blob/master/jacketofinternet_1_bb.png">
 
+NeoPixel stipe on right: https://learn.adafruit.com/led-ampli-tie/overview
+
 
 https://makecode.microbit.org/_ejaY0TCEiWzV
 
